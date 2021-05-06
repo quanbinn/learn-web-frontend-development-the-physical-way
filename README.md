@@ -32,8 +32,8 @@
 - [用DOM操控Canvas](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Canvas.md)
 - [调用浏览器的API:setInterval()](/chapters/用Javascript-CRUD-DOM的Tree节点/调用浏览器的API-setInterval().md)
 
-- 
-- 背后的数据结构和算法
-  
+
+
+### 背后的数据结构和算法
   - [理解Virtual DOM和diff()](/chapters/vue.js核心逻辑/理解Virtual_DOM和diff().md)
 
