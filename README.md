@@ -21,7 +21,7 @@
 
 ## 用Javascript CRUD DOM的Tree节点
 
-- [体验html页面的DOM结构和节点数据](/用Javascript-CRUD-DOM的Tree节点/体验html页面的DOM结构和节点数据.md)
+- [体验html页面的DOM结构和节点数据](/chapters/用Javascript-CRUD-DOM的Tree节点/体验html页面的DOM结构和节点数据.md)
 - **CRUD** DOM Tree
 	- [创建DOM树的数据节点](/chapters/用Javascript-CRUD-DOM的Tree节点/创建DOM树的数据节点.md)
 	- [读取DOM树的数据节点内容](/chapters/用Javascript-CRUD-DOM的Tree节点/读取DOM树的数据节点内容.md)
