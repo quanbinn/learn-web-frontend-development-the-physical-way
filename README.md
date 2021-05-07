@@ -35,6 +35,7 @@
 ## React
 - 背后的重要理念，数据结构，和算法
   - [把简单函数组合成复杂的函数](/chapters/React/把简单函数组合成复杂的函数.md)
+  - [使用JavaScript对象创建React的元素](/chapters/React/使用JavaScript对象创建React的元素.md) 
   - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
 - Data
 	- [](/chapters/React/.md)
