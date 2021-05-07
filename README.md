@@ -37,9 +37,9 @@
   - [把简单函数组合成复杂的函数](/chapters/React/把简单函数组合成复杂的函数.md)
   - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
 - Data
-	- [Form(input)](/chapters/React/Form(input).md)
+	- [](/chapters/React/.md)
 - UI
-	- [Hyperlink](/chapters/React/Hyperlink.md)
+	- [](/chapters/React/.md)
 - Grammar: Javascript XML(JSX) 
-	- [在render()里使用(...html...)返回html语句](/chapters/React/在render()里使用(...html...)返回html语句)
-	- [在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句)
+	- [在render()里使用(...html...)返回html语句](/chapters/React/在render()里使用(...html...)返回html语句.md)
+	- [在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
