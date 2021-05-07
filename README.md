@@ -32,18 +32,14 @@
 - [用DOM操控Canvas](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Canvas.md)
 - [调用浏览器的API:setInterval()](/chapters/用Javascript-CRUD-DOM的Tree节点/调用浏览器的API-setInterval().md)
 
-
-
-### 背后的数据结构和算法
-  - [理解Virtual DOM和diff()](/chapters/vue.js核心逻辑/理解Virtual_DOM和diff().md)
-
 ## React
-
-- UI
-	- [Hyperlink](/chapters/用实体模型表达Web前端开发的基本组件/Hyperlink.md)
+- 背后的重要理念，数据结构，和算法
+  - [把简单函数组合成复杂的函数](/chapters/React/把简单函数组合成复杂的函数.md)
+  - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
 - Data
-	- [Form(input)](/chapters/用实体模型表达Web前端开发的基本组件/Form(input).md)
-- ES6 Grammar
-	- [div](/chapters/用实体模型表达Web前端开发的基本组件/div.md)
-	- [Heading](/chapters/用实体模型表达Web前端开发的基本组件/Heading.md)
-	- [Paragraph](/chapters/用实体模型表达Web前端开发的基本组件/Paragraph.md)
+	- [Form(input)](/chapters/React/Form(input).md)
+- UI
+	- [Hyperlink](/chapters/React/Hyperlink.md)
+- Grammar: Javascript XML(JSX) 
+	- [在render()里使用(...html...)返回html语句](/chapters/React/在render()里使用(...html...)返回html语句)
+	- [在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句)
