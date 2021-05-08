@@ -18,7 +18,6 @@
 - 脚本
 	- [Canvas](/chapters/用实体模型表达Web前端开发的基本组件/Canvas.md)
 
-
 ## 用Javascript CRUD DOM的Tree节点
 
 - [体验html页面的DOM结构和节点数据](/chapters/用Javascript-CRUD-DOM的Tree节点/体验html页面的DOM结构和节点数据.md)
@@ -39,6 +38,7 @@
   - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
 - Data
 	- [渲染出Mock的[obj1,obj2,...objN]数据](/chapters/React/渲染出Mock的[obj1,obj2,...objN]数据.md)
+ 	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
 - **UI's Grammar: Javascript XML(JSX)**
 	- [在render()里使用(...html...)返回html语句](/chapters/React/在rder()里使用(...html...)返回html语句.md)
 	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
