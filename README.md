@@ -38,7 +38,7 @@
   - [使用JavaScript对象创建React的元素](/chapters/React/使用JavaScript对象创建React的元素.md) 
   - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
 - Data
-	- [](/chapters/React/.md)
+	- [渲染出Mock的[obj1,obj2,...objN]数据](/chapters/React/渲染出Mock的[obj1,obj2,...objN]数据.md)
 - **UI's Grammar: Javascript XML(JSX)**
 	- [在render()里使用(...html...)返回html语句](/chapters/React/在rder()里使用(...html...)返回html语句.md)
 	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
