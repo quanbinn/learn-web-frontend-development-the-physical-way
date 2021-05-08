@@ -91,8 +91,5 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 ## 参考文献及资料
 
-1. 维基百科
-	- [React (JavaScript library):JSX](https://en.wikipedia.org/wiki/React_(JavaScript_library)#JSX)
-2. [JSX 简介](https://react.docschina.org/docs/introducing-jsx.html)
-3. [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+1. [Components and Props](https://reactjs.org/docs/components-and-props.html)
 

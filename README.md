@@ -36,7 +36,7 @@
   - [把简单函数组合成复杂的函数](/chapters/React/把简单函数组合成复杂的函数.md)
   - [使用JavaScript对象创建React的元素](/chapters/React/使用JavaScript对象创建React的元素.md) 
   - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
-- Data
+- **读取并传递Data**
 	- [渲染出Mock的[obj1,obj2,...objN]数据](/chapters/React/渲染出Mock的[obj1,obj2,...objN]数据.md)
  	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
 - **UI's Grammar: Javascript XML(JSX)**
