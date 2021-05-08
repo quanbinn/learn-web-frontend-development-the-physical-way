@@ -33,14 +33,15 @@
 - [调用浏览器的API:setInterval()](/chapters/用Javascript-CRUD-DOM的Tree节点/调用浏览器的API-setInterval().md)
 
 ## React
-- 背后的重要理念，数据结构，和算法
+- **核心逻辑，数据结构，和算法**
   - [把简单函数组合成复杂的函数](/chapters/React/把简单函数组合成复杂的函数.md)
   - [使用JavaScript对象创建React的元素](/chapters/React/使用JavaScript对象创建React的元素.md) 
   - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
 - Data
 	- [](/chapters/React/.md)
-- UI
-	- [](/chapters/React/.md)
-- Grammar: Javascript XML(JSX) 
-	- [在render()里使用(...html...)返回html语句](/chapters/React/在render()里使用(...html...)返回html语句.md)
-	- [在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
+- **UI's Grammar: Javascript XML(JSX)**
+	- [在render()里使用(...html...)返回html语句](/chapters/React/在rder()里使用(...html...)返回html语句.md)
+	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
+	- [在render()里的html元素的class标签需要写成className](/chapters/React/在render()里的html元素的class标签需要写成className.md)
+	- [使用key...](/chapters/React/使用key....md)
+	- [使用className与html元素里的class标签等效](/chapters/React/使用className与html元素里的class标签等效.md)
