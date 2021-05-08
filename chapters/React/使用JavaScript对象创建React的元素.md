@@ -78,12 +78,12 @@ ReactDOM.render(
 ```javascript
 const element = <div className='welcome-message'>夏彬你好</div>
 
-						===
+			===
 
 // 在html代码前后加了一对大括号，和上面的语句在编译后的效果是一样的
 const element = (<div className='welcome-message'>夏彬你好</div>)　
 
-						===
+			===
 
 const element = React.createElement('div',
 	{className: 'welcome-message'}, '夏彬你好!')
