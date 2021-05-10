@@ -39,6 +39,8 @@
 - **读取并传递Data**
 	- [渲染出Mock的[obj1,obj2,...objN]数据](/chapters/React/渲染出Mock的[obj1,obj2,...objN]数据.md)
  	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
+ 	- [在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
+ 	- [使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据.md)   
 - **UI's Grammar: Javascript XML(JSX)**
 	- [在render()里使用(...html...)返回html语句](/chapters/React/在rder()里使用(...html...)返回html语句.md)
 	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
