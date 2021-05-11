@@ -112,5 +112,5 @@ export default MovieCard;
 ```
 ## 参考文献及资料
 
-1. [Components and Props](https://reactjs.org/docs/components-and-props.html)
+1. [使用 State Hook](https://zh-hans.reactjs.org/docs/hooks-state.html)
 
