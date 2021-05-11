@@ -36,11 +36,14 @@
   - [把简单函数组合成复杂的函数](/chapters/React/把简单函数组合成复杂的函数.md)
   - [使用JavaScript对象创建React的元素](/chapters/React/使用JavaScript对象创建React的元素.md) 
   - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
+
 - **读取并传递Data**
 	- [渲染出Mock的[obj1,obj2,...objN]数据](/chapters/React/渲染出Mock的[obj1,obj2,...objN]数据.md)
  	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
  	- [在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
  	- [使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据.md)   
+ 	- [User input后调用组件的setState()改变组件的初始state](/chapters/React/User-input后调用组件的setState()改变组件的初始state.md) 
+
 - **UI's Grammar: Javascript XML(JSX)**
 	- [在render()里使用(...html...)返回html语句](/chapters/React/在rder()里使用(...html...)返回html语句.md)
 	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
