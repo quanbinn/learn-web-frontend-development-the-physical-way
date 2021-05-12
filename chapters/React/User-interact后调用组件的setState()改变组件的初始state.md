@@ -1,7 +1,7 @@
 # User input后调用组件的setState()改变组件的初始state
 
 ## 调试Sandbox项目：
-单击右方的[User input后调用组件的setState()改变组件的初始state](https://codesandbox.io/s/user-inputhoudiaoyongzujiandesetstategaibianzujiandechushistate-qknid)，浏览器里会打开一个新的页面，里面有下面的代码段，如下图所示。
+单击右方的[User-interact后调用组件的setState()改变组件的初始state](https://codesandbox.io/s/user-inputhoudiaoyongzujiandesetstategaibianzujiandechushistate-qknid)，浏览器里会打开一个新的页面，里面有下面的代码段，如下图所示。
 
 ### index.js
 ```javascript
