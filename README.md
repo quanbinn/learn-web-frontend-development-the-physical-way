@@ -51,3 +51,8 @@
 	- [在render()里的html元素的class标签需要写成className](/chapters/React/在render()里的html元素的class标签需要写成className.md)
 	- [使用key...](/chapters/React/使用key....md)
 	- [使用className与html元素里的class标签等效](/chapters/React/使用className与html元素里的class标签等效.md)
+
+## ECMAScript 6 ...
+
+  - [使用let和const取代var](/chapters/ECMAScript6/使用let和const取代var.md)
+  - [使用Template Literals制作多行字符串](/chapters/ECMAScript6/使用Template-Literals制作多行字符串.md)
