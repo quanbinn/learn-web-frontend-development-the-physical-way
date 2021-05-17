@@ -56,4 +56,4 @@
 
   - [使用块级作用域的let和const取代函数作用域的var](/chapters/ECMAScript6/使用块级作用域的let和const取代函数作用域的var.md)
   - [使用Template Literals拼接多行字符串](/chapters/ECMAScript6/使用Template-Literals拼接多行字符串.md)
-  - [使用解构获取数组或对象中的数据并赋值给不同的变量](/chapters/ECMAScript6/使用解构获取数组或对象中的数据并赋值给不同的变量.md)
+  - [使用解构获取对象或数组中的数据并赋值给不同的变量](/chapters/ECMAScript6/使用解构获取对象或数组中的数据并赋值给不同的变量.md)
