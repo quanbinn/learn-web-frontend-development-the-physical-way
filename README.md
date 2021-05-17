@@ -54,5 +54,5 @@
 
 ## ECMAScript 6 ...
 
-  - [使用let和const取代var](/chapters/ECMAScript6/使用let和const取代var.md)
-  - [使用Template Literals制作多行字符串](/chapters/ECMAScript6/使用Template-Literals制作多行字符串.md)
+  - [使用块级作用域的let和const取代函数作用域的var](/chapters/ECMAScript6/使用块级作用域的let和const取代函数作用域的var.md)
+  - [使用Template Literals拼接多行字符串](/chapters/ECMAScript6/使用Template-Literals拼接多行字符串.md)
