@@ -57,3 +57,7 @@
   - [使用块级作用域的let和const取代函数作用域的var](/chapters/ECMAScript6/使用块级作用域的let和const取代函数作用域的var.md)
   - [使用Template Literals拼接多行字符串](/chapters/ECMAScript6/使用Template-Literals拼接多行字符串.md)
   - [使用解构获取对象或数组中的数据并赋值给不同的变量](/chapters/ECMAScript6/使用解构获取对象或数组中的数据并赋值给不同的变量.md)
+ 
+  - [使用解构获取对象或数组中的数据并赋值给不同的变量](/chapters/ECMAScript6/使用解构获取对象或数组中的数据并赋值给不同的变量.md)
+  - [使用for...of loop取代for loop和for...in loop操纵数组中的数据](/chapters/ECMAScript6/使用for...of-loop取代for-loop和for...in-loop操纵数组中的数据.md)
+  - [使用[...nameOfArray]连接n个不同的数组或使用{...nameOfObject}添加n个不同对象的键值对](/chapters/ECMAScript6/使用[...nameOfArray]连接n个不同的数组或使用{...nameOfObject}添加n个不同对象的键值对.md)
