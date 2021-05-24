@@ -43,7 +43,7 @@
  	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
  	- [在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
  	- [使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据.md)   
- 	- [User interact后调用组件的setState()改变组件的初始state](/chapters/React/User-interact后调用组件的setState()改变组件的初始state.md) 
+ 	- [User interact后调用组件的setState()改变组件的初始state](/chapters/React/User-interact后调用组件的setState()改变组件的初始state.md) /
 
 - **UI's Grammar: Javascript XML(JSX)**
 	- [在render()里使用(...html...)返回html语句](/chapters/React/在rder()里使用(...html...)返回html语句.md)
@@ -54,11 +54,20 @@
 
 ## ECMAScript 6 ...
 - **基本语法** 
+	- [使用块级作用域的let和const取代函数作用域的var](/chapters/ECMAScript6/基本语法/使用块级作用域的let和const取代函数作用域的var.md)
+  - [使用Template Literals拼接多行字符串](/chapters/ECMAScript6/基本语法/使用Template-Literals拼接多行字符串.md)
+  - [使用解构获取对象或数组中的数据并赋值给不同的变量](/chapters/ECMAScript6/基本语法/使用解构获取对象或数组中的数据并赋值给不同的变量.md)
+  - [使用Object Literal Shorthand的对象字面量简写语法](/chapters/ECMAScript6/基本语法/使用Object-Literal-Shorthand的对象字面量简写语法.md)
+  - [使用for...of loop取代for loop和for...in loop操纵数组中的数据](/chapters/ECMAScript6/基本语法/使用for...of-loop取代for-loop和for...in-loop操纵数组中的数据.md)
+  - [使用[...nameOfArray]连接n个不同的数组或使用{...nameOfObject}添加n个不同对象的键值对](/chapters/ECMAScript6/基本语法/使用[...nameOfArray]连接n个不同的数组或使用{...nameOfObject}添加n个不同对象的键值对.md)
+  - [使用...Rest参数把1个不定数量的参数表示为1个数组](/chapters/ECMAScript6/基本语法/使用...Rest参数把1个不定数量的参数表示为1个数组.md) 
 
-  - [使用块级作用域的let和const取代函数作用域的var](/chapters/ECMAScript6/使用块级作用域的let和const取代函数作用域的var.md)
-  - [使用Template Literals拼接多行字符串](/chapters/ECMAScript6/使用Template-Literals拼接多行字符串.md)
-  - [使用解构获取对象或数组中的数据并赋值给不同的变量](/chapters/ECMAScript6/使用解构获取对象或数组中的数据并赋值给不同的变量.md)
-  - [使用Object Literal Shorthand的对象字面量简写语法](/chapters/ECMAScript6/使用Object-Literal-Shorthand的对象字面量简写语法.md)
-  - [使用for...of loop取代for loop和for...in loop操纵数组中的数据](/chapters/ECMAScript6/使用for...of-loop取代for-loop和for...in-loop操纵数组中的数据.md)
-  - [使用[...nameOfArray]连接n个不同的数组或使用{...nameOfObject}添加n个不同对象的键值对](/chapters/ECMAScript6/使用[...nameOfArray]连接n个不同的数组或使用{...nameOfObject}添加n个不同对象的键值对.md)
-  - [使用...Rest参数把1个不定数量的参数表示为1个数组](/chapters/ECMAScript6/使用...Rest参数把1个不定数量的参数表示为1个数组.md) 
+- **类和对象**
+	- [c语言中存储多种数据类型的结构体](/chapters/ECMAScript6/类和对象/c语言中存储多种数据类型的结构体.md)
+	- [c++语言中存储多种数据类型(包括函数)的结构体](/chapters/ECMAScript6/类和对象/c++语言中存储多种数据类型(包括函数)的结构体.md)
+	- [存储多种数据类型的对象](/chapters/ECMAScript6/类和对象/存储多种数据类型的对象.md)
+	- [用可以传入参数的构造函数创建对象](/chapters/ECMAScript6/类和对象/用可以传入参数的构造函数创建对象.md)
+	- [this关键字的三种常用指向](/chapters/ECMAScript6/类和对象/this关键字的三种常用指向.md)
+	- [使用prototype对象实现构造函数的继承](/chapters/ECMAScript6/类和对象/使用prototype对象实现构造函数的继承.md)
+	- [使用ES6的class语法糖创建对象](/chapters/ECMAScript6/类和对象/使用ES6的class语法糖创建对象.md)
+	- [使用super和extends的语法糖实现构造函数的继承](/chapters/ECMAScript6/类和对象/使用super和extends的语法糖实现构造函数的继承.md)
