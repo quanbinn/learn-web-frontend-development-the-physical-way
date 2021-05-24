@@ -64,7 +64,7 @@
 
 - **类和对象**
 	- [c语言中存储多种数据类型的结构体](/chapters/ECMAScript6/类和对象/c语言中存储多种数据类型的结构体.md)
-	- [c++语言中存储多种数据类型(包括函数)的结构体](/chapters/ECMAScript6/类和对象/c++语言中存储多种数据类型(包括函数)的结构体.md)
+	- [c++语言中存储多种数据类型的结构体](/chapters/ECMAScript6/类和对象/c++语言中存储多种数据类型的结构体.md)
 	- [存储多种数据类型的对象](/chapters/ECMAScript6/类和对象/存储多种数据类型的对象.md)
 	- [用可以传入参数的构造函数创建对象](/chapters/ECMAScript6/类和对象/用可以传入参数的构造函数创建对象.md)
 	- [this关键字的三种常用指向](/chapters/ECMAScript6/类和对象/this关键字的三种常用指向.md)
