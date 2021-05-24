@@ -47,6 +47,11 @@ funFunction();
 // (returns the global object, `window`)
 ```
 
+```javascript
+console.log(this);
+```
+
+
 ## 参考文献及资料
 
 1. [**The `this` Keyword**](https://classroom.udacity.com/nanodegrees/nd032/parts/d4ff6b6c-2074-41d9-ab2a-440bf6e8c623/modules/a82d8fc9-9509-4717-b419-cd117cd6ce4a/lessons/7a95cd0f-752d-422e-b5a4-af8ddeaca0aa/concepts/b10c05b1-bf7b-48bc-83ba-8269540622ed)
