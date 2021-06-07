@@ -43,7 +43,7 @@
  	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/读取并传递Data/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
  	- [在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/读取并传递Data/在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
  	- [使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/读取并传递Data/使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据.md)   
- 	- [User interact后调用组件的setState()改变组件的初始state](/chapters/React/读取并传递Data/User-interact后调用组件的setState()改变组件的初始state.md) /
+ 	- [User interact后调用组件的setState()改变组件的初始state](/chapters/React/读取并传递Data/User-interact后调用组件的setState()改变组件的初始state.md) 
 
 - **UI's Grammar: Javascript XML(JSX)**
 	- [在render()里使用(...html...)返回html语句](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在render()里使用(...html...)返回html语句.md)
