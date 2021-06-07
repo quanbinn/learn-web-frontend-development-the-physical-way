@@ -46,7 +46,7 @@
  	- [User interact后调用组件的setState()改变组件的初始state](/chapters/React/读取并传递Data/User-interact后调用组件的setState()改变组件的初始state.md) /
 
 - **UI's Grammar: Javascript XML(JSX)**
-	- [在render()里使用(...html...)返回html语句](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在rder()里使用(...html...)返回html语句.md)
+	- [在render()里使用(...html...)返回html语句](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在render()里使用(...html...)返回html语句.md)
 	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
 	- [在render()里的html元素的class标签需要写成className](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在render()里的html元素的class标签需要写成className.md)
 	- [使用key值识别Virtual DOM的节点？？](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/使用key....md)
