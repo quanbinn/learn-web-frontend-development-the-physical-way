@@ -34,23 +34,22 @@
 ## React
 
 - **核心逻辑，数据结构，和算法**
-  - [把简单函数组合成复杂的函数](/chapters/React/把简单函数组合成复杂的函数.md)
-  - [使用JavaScript对象创建React的元素](/chapters/React/使用JavaScript对象创建React的元素.md) 
-  - [理解Virtual DOM和diff()](/chapters/React/理解Virtual_DOM和diff().md)
+  - [把简单函数组合成复杂的函数](/chapters/React/核心逻辑+数据结构+算法/把简单函数组合成复杂的函数.md)
+  - [使用JavaScript对象创建React的元素](/chapters/React/核心逻辑+数据结构+算法/使用JavaScript对象创建React的元素.md) 
+  - [理解Virtual DOM和diff()](/chapters/React/核心逻辑+数据结构+算法/理解Virtual_DOM和diff().md)
 
 - **读取并传递Data**
-	- [渲染出Mock的[obj1,obj2,...objN]数据](/chapters/React/渲染出Mock的[obj1,obj2,...objN]数据.md)
- 	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
- 	- [在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
- 	- [使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据.md)   
- 	- [User interact后调用组件的setState()改变组件的初始state](/chapters/React/User-interact后调用组件的setState()改变组件的初始state.md) /
+	- [渲染出Mock的[obj1,obj2,...objN]数据](/chapters/React/读取并传递Data/渲染出Mock的[obj1,obj2,...objN]数据.md)
+ 	- [在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/读取并传递Data/在组合多个组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
+ 	- [在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/读取并传递Data/在组合多个嵌套组件的过程中使用props传入Mock的[obj1,obj2,...objN]数据.md)  
+ 	- [使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据](/chapters/React/读取并传递Data/使用无状态函数组件的props传入Mock的[obj1,obj2,...objN]数据.md)   
+ 	- [User interact后调用组件的setState()改变组件的初始state](/chapters/React/读取并传递Data/User-interact后调用组件的setState()改变组件的初始state.md) /
 
 - **UI's Grammar: Javascript XML(JSX)**
-	- [在render()里使用(...html...)返回html语句](/chapters/React/在rder()里使用(...html...)返回html语句.md)
-	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
-	- [在render()里的html元素的class标签需要写成className](/chapters/React/在render()里的html元素的class标签需要写成className.md)
-	- [使用key...](/chapters/React/使用key....md)
-	- [使用className与html元素里的class标签等效](/chapters/React/使用className与html元素里的class标签等效.md)
+	- [在render()里使用(...html...)返回html语句](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在rder()里使用(...html...)返回html语句.md)
+	- [在render()里返回的(...html...)里使用{...javascript...}运行JavenaScript语句](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在render()里返回的(...html...)里使用{...javascript...}运行JavaScript语句.md)
+	- [在render()里的html元素的class标签需要写成className](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/在render()里的html元素的class标签需要写成className.md)
+	- [使用key值识别Virtual DOM的节点？？](/chapters/React/UIs-Grammar-Javascript-XML(JSX)/使用key....md)
 
 ## ECMAScript 6 ...
 - **基本语法** 
