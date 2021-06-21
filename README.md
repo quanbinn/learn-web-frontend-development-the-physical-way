@@ -30,8 +30,12 @@
 	- [用DOM操控div](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控div.md)
 	- [用DOM操控Form中的input](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Form中的input.md)
 	- [用DOM操控Canvas](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Canvas.md)
+	- [用DOM创建todo list](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM创建todo_list.md) 
 - [调用浏览器的API:setInterval()](/chapters/用Javascript-CRUD-DOM的Tree节点/调用浏览器的API-setInterval().md)
-- [用DOM创建todo list](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM创建todo_list.md)
+- 用DOM创建weekly tasks
+	- [创建table](/chapters/用Javascript-CRUD-DOM的Tree节点/创建table.md)
+	- [创建tasks](/chapters/用Javascript-CRUD-DOM的Tree节点/创建tasks.md)
+	- [拖拽tasks到目标位置](/chapters/用Javascript-CRUD-DOM的Tree节点/拖拽tasks到目标位置.md)
 
 ## React
 
