@@ -26,9 +26,10 @@
 	- [读取DOM树的数据节点内容](/chapters/用Javascript-CRUD-DOM的Tree节点/读取DOM树的数据节点内容.md)
 	- [改变DOM树的数据节点内容](/chapters/用Javascript-CRUD-DOM的Tree节点/改变DOM树的数据节点内容.md)
 	- [删除DOM树的数据节点](/chapters/用Javascript-CRUD-DOM的Tree节点/删除DOM树的数据节点.md)
-- [用DOM操控div](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控div.md)
-- [用DOM操控Form中的input](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Form中的input.md)
-- [用DOM操控Canvas](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Canvas.md)
+- 用DOM操控常用元素
+	- [用DOM操控div](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控div.md)
+	- [用DOM操控Form中的input](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Form中的input.md)
+	- [用DOM操控Canvas](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Canvas.md)
 - [调用浏览器的API:setInterval()](/chapters/用Javascript-CRUD-DOM的Tree节点/调用浏览器的API-setInterval().md)
 - [用DOM创建todo list](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM创建todo_list.md)
 
