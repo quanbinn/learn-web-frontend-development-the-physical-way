@@ -22,20 +22,21 @@
 
 - [体验html页面的DOM结构和节点数据](/chapters/用Javascript-CRUD-DOM的Tree节点/体验html页面的DOM结构和节点数据.md)
 - **CRUD** DOM Tree
-	- [创建DOM树的数据节点](/chapters/用Javascript-CRUD-DOM的Tree节点/创建DOM树的数据节点.md)
-	- [读取DOM树的数据节点内容](/chapters/用Javascript-CRUD-DOM的Tree节点/读取DOM树的数据节点内容.md)
-	- [改变DOM树的数据节点内容](/chapters/用Javascript-CRUD-DOM的Tree节点/改变DOM树的数据节点内容.md)
-	- [删除DOM树的数据节点](/chapters/用Javascript-CRUD-DOM的Tree节点/删除DOM树的数据节点.md)
+	- [体验DOM树结构的数据节点](/chapters/用Javascript-CRUD-DOM的Tree节点/CRUD_DOM_Tree/体验DOM树结构的数据节点.md)
+	- [创建DOM树的数据节点](/chapters/用Javascript-CRUD-DOM的Tree节点/CRUD_DOM_Tree/创建DOM树的数据节点.md)
+	- [读取DOM树的数据节点内容](/chapters/用Javascript-CRUD-DOM的Tree节点/CRUD_DOM_Tree/读取DOM树的数据节点内容.md)
+	- [改变DOM树的数据节点内容](/chapters/用Javascript-CRUD-DOM的Tree节点/CRUD_DOM_Tree/改变DOM树的数据节点内容.md)
+	- [删除DOM树的数据节点](/chapters/用Javascript-CRUD-DOM的Tree节点/CRUD_DOM_Tree/删除DOM树的数据节点.md)
 - 用DOM操控常用元素
-	- [用DOM操控div](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控div.md)
-	- [用DOM操控Form中的input](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Form中的input.md)
-	- [用DOM操控Canvas](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控Canvas.md)
-	- [用DOM创建todo list](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM创建todo_list.md) 
+	- [用DOM操控div](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控常用元素/用DOM操控div.md)
+	- [用DOM操控Form中的input](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控常用元素/用DOM操控Form中的input.md)
+	- [用DOM操控Canvas](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控常用元素/用DOM操控Canvas.md)
+	- [用DOM创建todo list](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM操控常用元素/用DOM创建todo_list.md) 
 - [调用浏览器的API:setInterval()](/chapters/用Javascript-CRUD-DOM的Tree节点/调用浏览器的API-setInterval().md)
 - 用DOM创建weekly tasks
-	- [创建table](/chapters/用Javascript-CRUD-DOM的Tree节点/创建table.md)
-	- [创建tasks](/chapters/用Javascript-CRUD-DOM的Tree节点/创建tasks.md)
-	- [拖拽tasks到目标位置](/chapters/用Javascript-CRUD-DOM的Tree节点/拖拽tasks到目标位置.md)
+	- [创建table](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM创建weekly_tasks/创建table.md)
+	- [创建tasks](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM创建weekly_tasks/创建tasks.md)
+	- [拖拽tasks后放到目标位置](/chapters/用Javascript-CRUD-DOM的Tree节点/用DOM创建weekly_tasks/拖拽tasks后放到目标位置.md)
 
 ## React
 
