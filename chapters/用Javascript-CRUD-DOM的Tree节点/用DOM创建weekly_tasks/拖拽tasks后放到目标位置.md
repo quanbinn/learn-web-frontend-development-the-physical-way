@@ -18,7 +18,9 @@
 
 ## 参考文献及资料
 
-1. 维基百科
-	- [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Modelt) 
+1. [**HTML draggable Attribute** from w3schools.com](https://www.w3schools.com/TAGS/att_draggable.asp)
+2. [**HTML Drag and Drop API** from w3schools.com](https://www.w3schools.com/HTML/html5_draganddrop.asp)
+3. [**How TO - Create a Draggable HTML Element** from w3schools.com](https://www.w3schools.com/howto/howto_js_draggable.asp)
+2. [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) 
+2. [HTML5原生拖拽/拖放(drag & drop)详解](https://www.cnblogs.com/weiqinl/p/7886049.html) 
 
-2. [Calculate Your Body Mass Index from U.S. Department of Health & Human Services](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm) 
