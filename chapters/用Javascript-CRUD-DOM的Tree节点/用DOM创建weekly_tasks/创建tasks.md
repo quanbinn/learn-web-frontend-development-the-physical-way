@@ -2,7 +2,7 @@
 
 ## 打开实验文件
 
-单击右方的[input form of weekly tasks](https://codepen.io/quanbinn/pen/dyvEvOo), 浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
+单击右方的[input form of weekly tasks](https://codepen.io/quanbinn/pen/dyvEvOo), 浏览器里会打开一个新的页面，里面有下面的代码段，如下图所示。
 
 ```html
 <ul id="tasksTodo">
