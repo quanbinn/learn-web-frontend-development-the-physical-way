@@ -2,7 +2,7 @@
 
 ## 打开实验文件
 
-单击右方的[drag and drop - 把div拖放到另一个div中](https://codepen.io/quanbinn/pen/mdWYKgz), 浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
+单击右方的[drag and drop - 把div拖放到另一个div中](https://codepen.io/quanbinn/pen/mdWYKgz), 浏览器里会打开一个新的页面，里面有下面的代码段，如下图所示。
 
 ```html
 <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
@@ -33,7 +33,7 @@ function drop(ev) {
 #drag1 {width:120px;height:50px;border:1px solid #aaaaaa;}
 ```
 
-单击右方的[drag and drop - 把 div拖放到table的data cell中](https://codepen.io/quanbinn/pen/eYvwJdj), 浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
+单击右方的[drag and drop - 把 div拖放到table的data cell中](https://codepen.io/quanbinn/pen/eYvwJdj), 浏览器里会打开一个新的页面，里面有下面的代码段，如下图所示。
 
 ```html
 <table>
@@ -81,12 +81,11 @@ function drop(ev) {
 #drag1, #drag2 {width:120px;height:50px;border:1px solid #aaaaaa;}
 ```
 
-
 ## 参考文献及资料
 
 1. [**HTML draggable Attribute** from w3schools.com](https://www.w3schools.com/TAGS/att_draggable.asp)
 2. [**HTML Drag and Drop API** from w3schools.com](https://www.w3schools.com/HTML/html5_draganddrop.asp)
 3. [**How TO - Create a Draggable HTML Element** from w3schools.com](https://www.w3schools.com/howto/howto_js_draggable.asp)
-2. [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) 
-2. [HTML5原生拖拽/拖放(drag & drop)详解](https://www.cnblogs.com/weiqinl/p/7886049.html) 
+4. [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) 
+5. [HTML5原生拖拽/拖放(drag & drop)详解](https://www.cnblogs.com/weiqinl/p/7886049.html) 
 
