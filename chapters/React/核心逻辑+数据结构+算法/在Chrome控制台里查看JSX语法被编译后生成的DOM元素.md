@@ -4,8 +4,11 @@
 找到下载的[“\react-demos\demo03\”](https://github.com/ruanyf/react-demos)"文件夹中的index.html，右键选择用Google Chrome浏览器打开，随后在控制台里会找到相应的代码段，如下图所示。
 
 ![](/images/React/在Chrome控制台里查看JSX语法被编译后生成的DOM元素/1.png)
+
 ![](/images/React/在Chrome控制台里查看JSX语法被编译后生成的DOM元素/2.png)
+
 ![](/images/React/在Chrome控制台里查看JSX语法被编译后生成的DOM元素/3.png)
+
 ![](/images/React/在Chrome控制台里查看JSX语法被编译后生成的DOM元素/4.png)
 
 ### index.html
