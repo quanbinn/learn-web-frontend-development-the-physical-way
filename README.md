@@ -43,6 +43,7 @@
 - **核心逻辑，数据结构，和算法**
   - [把简单函数组合成复杂的函数](/chapters/React/核心逻辑+数据结构+算法/把简单函数组合成复杂的函数.md)
   - [使用JavaScript对象创建React的元素](/chapters/React/核心逻辑+数据结构+算法/使用JavaScript对象创建React的元素.md) 
+  - [在Chrome控制台里查看JSX语法被编译后生成的DOM元素](/chapters/React/核心逻辑+数据结构+算法/在Chrome控制台里查看JSX语法被编译后生成的DOM元素.md) 
   - [理解Virtual DOM和diff()](/chapters/React/核心逻辑+数据结构+算法/理解Virtual_DOM和diff().md)
 
 - **读取并传递Data**
